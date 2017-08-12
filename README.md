@@ -1,4 +1,4 @@
-# breastCancerChallenge
+# Breast Cancer Challenge
 
 This is a 3 hour challenge to correctly classify whether a biopsied cell is benign or malignant.
 
